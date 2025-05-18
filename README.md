@@ -27,10 +27,6 @@ Optionally you can put each program and its exe file into their own folders
 
 - /src
   - SimpleCalculator.c
-  - SimpleCalculator.exe
   - BMICalculator.c
-  - BMICalculator.exe
   - LeapYearCalculator.c
-  - LeapYearCalculator.exe
   - FibonacciSequence.c
-  - FibonacciSequence.exe
